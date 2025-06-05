@@ -1,6 +1,6 @@
 # letter-typst
 
-A port of [mrzool/tex-boilerplate](https://github.com/mrzool/letter-boilerplate) in Typst using native YAML and scripting features.
+A port of [mrzool/tex-boilerplate](https://github.com/mrzool/letter-boilerplate) in Typst using native scripting features.
 
 ![Sample letter](assets/thumbnail_1.png)
 
