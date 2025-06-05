@@ -2,6 +2,8 @@
 
 A port of [mrzool/tex-boilerplate](https://github.com/mrzool/letter-boilerplate) in Typst using native YAML and scripting features.
 
+![Sample letter](assets/thumbnail.png)
+
 ## Dependencies
 - EB Garamond, available on [Google Fonts](https://fonts.google.com/specimen/EB+Garamond)
   - Other good open-source options: [Cardo](https://fonts.google.com/specimen/Cardo), [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville), [Crimson](https://fonts.google.com/specimen/Crimson+Text), [Libre Caslon Text](https://fonts.google.com/specimen/Libre+Caslon+Text)
