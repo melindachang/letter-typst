@@ -2,7 +2,7 @@
 
 A port of [mrzool/tex-boilerplate](https://github.com/mrzool/letter-boilerplate) in Typst using native YAML and scripting features.
 
-![Sample letter](assets/thumbnail.png)
+![Sample letter](assetes/thumbnail.png)
 
 ## Dependencies
 - EB Garamond, available on [Google Fonts](https://fonts.google.com/specimen/EB+Garamond)
