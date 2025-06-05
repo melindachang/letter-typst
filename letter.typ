@@ -32,5 +32,5 @@
 #v(10pt)
 
 #align(right)[
-  #image("signature.svg", height: 2cm)
+  #image("assets/signature.svg", height: 2cm)
   #raw.from.first()]
