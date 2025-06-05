@@ -7,7 +7,7 @@ A port of [mrzool/tex-boilerplate](https://github.com/mrzool/letter-boilerplate)
 ## Dependencies
 - EB Garamond, available on [Google Fonts](https://fonts.google.com/specimen/EB+Garamond)
   - Other good open-source options: [Cardo](https://fonts.google.com/specimen/Cardo), [Libre Baskerville](https://fonts.google.com/specimen/Libre+Baskerville), [Crimson](https://fonts.google.com/specimen/Crimson+Text), [Libre Caslon Text](https://fonts.google.com/specimen/Libre+Caslon+Text)
-- Nimbus Sans
+- Nimbus Sans L, available on [Font Library](https://fontlibrary.org/en/font/nimbus-sans-l)
 
 ## Other resources
 
